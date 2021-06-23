@@ -1356,6 +1356,7 @@
 
 "@tensorflow-models/blazeface@link:../dist":
   version "0.0.0"
+  uid ""
 
 "@tensorflow/tfjs-backend-cpu@3.3.0":
   version "3.3.0"
@@ -1390,10 +1391,10 @@
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-3.3.0.tgz#d9f2ffd0fbdbb47c07d5fd7c3e5dc180cff317aa"
   integrity sha512-k57wN4yelePhmO9orcT/wzGMIuyedrMpVtg0FhxpV6BQu0+TZ/ti3W4Kb97GWJsoHKXMoing9SnioKfVnBW6hw==
 
-"@tensorflow/tfjs-core@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-3.1.0.tgz#63884b124b38f8b2c00b8b4f88e36d3de7f07963"
-  integrity sha512-KGSJEB6CTIk5YVgKbdpW0nAKuNtWaMdqYSrNYX43IAGdNrH0vDsipACH/bhrQyo9/NYiK/4Jbkr4k9pGwwiPJQ==
+"@tensorflow/tfjs-core@3.6.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-3.6.0.tgz#6b4d8175790bdff78868eabe6adc6442eb4dc276"
+  integrity sha512-bb2c3zwK4SgXZRvkTiC7EhCpWbCGp0GMd+1/3Vo2/Z54jiLB/h3sXIgHQrTNiWwhKPtst/xxA+MsslFlvD0A5w==
   dependencies:
     "@types/offscreencanvas" "~2019.3.0"
     "@types/seedrandom" "2.4.27"
