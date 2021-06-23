@@ -971,8 +971,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/deeplab@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/deeplab@0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/deeplab/-/deeplab-0.2.1.tgz#7dc5a66040574c92dc7cc19fb97abe3f390a1eea"
+  integrity sha512-P30Q0M7DoxU/npMlAbyFG8fVE/eGp7UordxxBHkBixa4JCOFvuug5Q7vNT28b4UIM/i85BuJOImRIETab+HYFg==
 
 "@tensorflow/tfjs-backend-cpu@3.6.0":
   version "3.6.0"
