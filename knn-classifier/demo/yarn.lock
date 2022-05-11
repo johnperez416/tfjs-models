@@ -1354,8 +1354,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/knn-classifier@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/knn-classifier@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/knn-classifier/-/knn-classifier-0.2.2.tgz#a46d70af9a5dd130143dfec4c2316dcb17bb414b"
+  integrity sha512-cBfgmxLe2pqPzxd/nHZVfGQjNA0L22QioRXLw2mDNgx2uRPP9HSLeX/MOtlM1ev60JpI43i32fkjmneTPqJ7NQ==
 
 "@tensorflow-models/mobilenet@2.1.0":
   version "2.1.0"
