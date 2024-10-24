@@ -10,11 +10,12 @@
   },
   "dependencies": {
     "@tensorflow-models/pose-detection": "file:../../dist",
-    "@tensorflow/tfjs-backend-wasm": "^3.6.0",
-    "@tensorflow/tfjs-backend-webgl": "^3.6.0",
-    "@tensorflow/tfjs-converter": "^3.6.0",
-    "@tensorflow/tfjs-core": "^3.6.0",
-    "@mediapipe/pose": "~0.3.0"
+    "@tensorflow/tfjs-backend-wasm": "^4.10.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.10.0",
+    "@tensorflow/tfjs-backend-webgpu": "^4.10.0",
+    "@tensorflow/tfjs-converter": "^4.10.0",
+    "@tensorflow/tfjs-core": "^4.10.0",
+    "@mediapipe/pose": "~0.4.0"
   },
   "scripts": {
     "watch": "cross-env NODE_ENV=development parcel index.html --no-hmr --open",
