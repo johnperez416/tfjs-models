@@ -1111,8 +1111,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/coco-ssd@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/coco-ssd@2.2.3":
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/coco-ssd/-/coco-ssd-2.2.3.tgz#3825286569076d6788199c9cb89fb2fa31f7d2f2"
+  integrity sha512-iCLGktG/XhHbP6h2FWxqCKMp/Px0lCp6MZU1fjNhjDHeaWEC9G7S7cZrnPXsfH+NewCM53YShlrHnknxU3SQig==
 
 "@tensorflow/tfjs-backend-cpu@3.3.0", "@tensorflow/tfjs-backend-cpu@^3.3.0":
   version "3.3.0"
