@@ -67,6 +67,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.3.1"
   }
 }
